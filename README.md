@@ -1,5 +1,5 @@
 # Cofrinho
-Projeto realizado para o trabalho do curso de Análise e Desenvolvimento de Sistemas, em linguagem JAVA, utilizando a IDE Eclipse.
+Projeto realizado na disciplina de Programação Orientada a Objetos do curso de Análise e Desenvolvimento de Sistemas, em linguagem JAVA, utilizando a IDE Eclipse.
 ## Este projeto tem as seguintes funções:
 * Adicionar moedas ao cofrinho
 * Remover moedas adicionadas
